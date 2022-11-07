@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\DOMParserService\\DOMParserServiceTest::testCountOfCertainPage":5},"times":{"Tests\\Unit\\DOMParserService\\DOMParserServiceTest::testCountOfCertainPage":0.003,"Tests\\Unit\\DOMParserService\\DOMParserServiceTest::testDoNotCountTagsWithoutBraces":0}}
